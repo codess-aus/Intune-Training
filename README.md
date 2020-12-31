@@ -14,7 +14,8 @@ The following Microsoft management solutions are all now part of the Microsoft E
 
 For more information, see [Microsoft Endpoint Configuration Manager FAQ](https://docs.microsoft.com/en-us/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)
 
-
+<p><img align="center" src="https://github.com/msandfor/Intune-Training/blob/main/assets/co-management-overview.svg" alt="Co-management architectural diagram"></p>
+<p align="center"></p>
 
 
 ## Intune Learning Path
