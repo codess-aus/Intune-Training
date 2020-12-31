@@ -48,6 +48,7 @@ For more information, see [Microsoft Endpoint Configuration Manager FAQ](https:/
 
 ## Core Learning Paths:
 | Resource | Length | Type | Summary | Importance |
+|----|----|----|--------|----|
 | [M365 Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/microsoft-365-fundamentals) | length | Learning Path | Follow Learning Paths at Bottom of page and ask your CSAM/TAM/SDM about how Microsoft will help you certify| Core |
 | [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals) | length | Learning Path | Follow Learning Paths at Bottom of page and ask your CSAM/TAM/SDM about how Microsoft will help you certify| Core |
 | [Power Platform Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/power-platform-fundamentals) | length | Learning Path | Follow Learning Paths at Bottom of page and ask your CSAM/TAM/SDM about how Microsoft will help you certify| Core |
