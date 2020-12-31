@@ -18,9 +18,12 @@ For more information, see [Microsoft Endpoint Configuration Manager FAQ](https:/
 <p align="center"></p>
 
 
-## Intune Learning Path
+## Core Learning Paths:
 | Resource | Length | Type | Summary | Importance |
 |----|----|----|--------|----|
+| [M365 Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/microsoft-365-fundamentals) | length | Learning Path | Follow Learning Paths at Bottom of page and ask your CSAM/TAM/SDM about how Microsoft will help you certify| Core |
+| [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals) | length | Learning Path | Follow Learning Paths at Bottom of page and ask your CSAM/TAM/SDM about how Microsoft will help you certify| Core |
+| [Power Platform Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/power-platform-fundamentals) | length | Learning Path | Follow Learning Paths at Bottom of page and ask your CSAM/TAM/SDM about how Microsoft will help you certify| Core |
 | [Manage your enterprise deployment with Microsoft 365](https://docs.microsoft.com/en-us/learn/paths/manage-enterprise-deployment-m365/) | 2 hr 57 min | Learning Path (6 Modules) | Manage your enterprise deployment with modern tools from Microsoft 365. Empower your users and IT to benefit from the easy deployment and productivity enhancements from Windows 10, while still maintaining your standards for security and manageability. This learning path can help you prepare for the Microsoft 365 Certified: Modern Desktop Administrator Associate certification. | Mandatory |
 | [Enabling Mobile Device Management Using Microsoft Intune](https://mslearningcampus.com/CourseAssignment/692434) | 45 min | Lab | In this lab, you will enable mobile device management (MDM) using Microsoft Intune. First, you will configure Microsoft Intune as the authority for MDM. Next, you will configure Intune management auto-enrollment for Azure Active Directory (Azure AD) joined devices. Finally, you will verify auto-enrollment of devices by joining a device to the Azure AD domain, and then viewing the device management status in the Microsoft 365 Device Management portal. | Practice |
 | [Deploying and Managing Devices Using Microsoft Intune](https://mslearningcampus.com/CourseAssignment/692437) | 1 hr 30 min | Lab | In this lab, you will sign up for Office 365 and EMS trial subscriptions, and then you will enable Mobile Device Management (MDM) in Azure AD and enroll devices into Intune management. Next, you will configure corporate branding and Azure AD access, and then you will configure Intune compliance policies to ensure and track device compliance. Finally, you will create device management profiles to configure device features and settings to align with corporate policies, and then you will deploy and configure apps on devices and automate the deployment of devices and apps using Windows Autopilot. | Practice |
@@ -43,11 +46,3 @@ For more information, see [Microsoft Endpoint Configuration Manager FAQ](https:/
 | [What is co-management?](https://docs.microsoft.com/en-us/mem/configmgr/comanage/overview) | 4 min | Documentation | Co-management is one of the primary ways to attach your existing Configuration Manager deployment to the Microsoft 365 cloud. It helps you unlock additional cloud-powered capabilities like conditional access. Co-management enables you to concurrently manage Windows 10 devices by using both Configuration Manager and Microsoft Intune. It lets you cloud-attach your existing investment in Configuration Manager by adding new functionality. By using co-management, you have the flexibility to use the technology solution that works best for your organization | Reference |
 | [Windows 10 Mobile deployment and management guide](https://docs.microsoft.com/en-us/windows/client-management/windows-10-mobile-and-mdm) | 1 hr 11 min | Documentation | This guide helps IT professionals plan for and deploy Windows 10 Mobile devices.| Reference |
 | [Microsoft Endpoint Manager fundamentals](https://docs.microsoft.com/en-us/learn/paths/endpoint-manager-fundamentals/) | 2 hr 57 min | Learning Path | This learning path helps you understand the fundamental concepts involved in managing your endpoint environment.| Mandatory |
-
-
-## Core Learning Paths:
-| Resource | Length | Type | Summary | Importance |
-|----|----|----|--------|----|
-| [M365 Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/microsoft-365-fundamentals) | length | Learning Path | Follow Learning Paths at Bottom of page and ask your CSAM/TAM/SDM about how Microsoft will help you certify| Core |
-| [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals) | length | Learning Path | Follow Learning Paths at Bottom of page and ask your CSAM/TAM/SDM about how Microsoft will help you certify| Core |
-| [Power Platform Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/power-platform-fundamentals) | length | Learning Path | Follow Learning Paths at Bottom of page and ask your CSAM/TAM/SDM about how Microsoft will help you certify| Core |
