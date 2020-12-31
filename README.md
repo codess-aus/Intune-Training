@@ -19,7 +19,6 @@ For more information, see [Microsoft Endpoint Configuration Manager FAQ](https:/
 
 
 ## Intune Learning Path
-
 | Resource | Length | Type | Summary | Importance |
 |----|----|----|--------|----|
 | [Manage your enterprise deployment with Microsoft 365](https://docs.microsoft.com/en-us/learn/paths/manage-enterprise-deployment-m365/) | 2 hr 57 min | Learning Path (6 Modules) | Manage your enterprise deployment with modern tools from Microsoft 365. Empower your users and IT to benefit from the easy deployment and productivity enhancements from Windows 10, while still maintaining your standards for security and manageability. This learning path can help you prepare for the Microsoft 365 Certified: Modern Desktop Administrator Associate certification. | Mandatory |
