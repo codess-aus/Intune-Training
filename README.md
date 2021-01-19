@@ -17,6 +17,7 @@ For more information, see [Microsoft Endpoint Configuration Manager FAQ](https:/
 <p><img align="center" src="https://github.com/msandfor/Intune-Training/blob/main/assets/co-management-overview.svg" alt="Co-management architectural diagram"></p>
 <p align="center"></p>
 
+**If you are a Unified Support Customer then all the below Training and Labs are available for you. If you do not have Microsoft Unified Support - then you will not be able to access the Labs, but the learning path's are free**
 
 ## Core Learning Paths:
 | Resource | Length | Type | Summary | Importance |
